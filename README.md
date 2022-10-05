@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, guy, how are you? 👋
 
 <!--
 **alpaca-brother/alpaca-brother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
